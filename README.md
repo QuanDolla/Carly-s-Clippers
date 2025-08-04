@@ -1,2 +1,2 @@
-# Carly-s-Clippers
-Using List and loops in Python
+# Carly's-Clippers
+This Python project simulates a barbershop’s pricing and performance analysis. It uses three lists to represent haircut styles, their prices, and how many of each were sold last week. The code calculates the average haircut price, applies a $5 discount across all styles, then estimates total and average daily revenue. It identifies which haircuts cost less than $30 after the discount, helping inform promotional or pricing decisions. It combines basic arithmetic, loops, and list comprehension to turn simple data into business insights.
